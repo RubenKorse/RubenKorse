@@ -1,6 +1,6 @@
-# Hey There, I'm [Your Name]! 📚💻
+# Hey There, I'm Ruben! 📚💻
 
-I'm an aspiring web developer with a passion for creating digital solutions and a keen interest in the world of business. I believe that the fusion of web development skills and business acumen can lead to incredible opportunities, and I'm excited to embark on this journey.
+I'm an aspiring web developer with a passion for creating digital solutions and a little bit of interest in the world of business. I believe that the fusion of web development skills and business can lead to incredible opportunities, and I'm excited to start this journey.
 
 ## About Me
 
@@ -13,14 +13,16 @@ I'm an aspiring web developer with a passion for creating digital solutions and 
   - **JavaScript:** Adding interactivity and dynamic functionality to websites.
 
   - **React:** Exploring modern front-end development for creating engaging user interfaces.
+ 
+  - **PHP:** Learning about the backend side of web development.
 
 ## What I'm Working On
 
 While I'm on this journey of self-improvement and knowledge acquisition, I'm also engaged in exciting web development projects:
 
-- [Personal Portfolio](link-to-portfolio): A project where I showcase my skills and projects while demonstrating my commitment to web development.
+- [Personal Portfolio](link-to-portfolio): A project where I showcase my skills and projects while demonstrating my commitment to web development (note: they are not done yet).
 
-- [E-commerce Website](link-to-ecommerce): A hands-on experience in building a functional online store, which involves managing products and handling transactions.
+- [E-commerce Website](link-to-ecommerce): A hands-on experience in building a functional online store, which involves managing products and handling transactions (note: they are not done yet).
 
 ## Aspirations
 
@@ -28,7 +30,7 @@ As someone who's passionate about both web development and business, here are so
 
 - **Web Solutions:** I aspire to create web solutions that address real-world problems and enhance user experiences.
 
-- **Freelancing:** I see myself freelancing as a web developer, working with clients to bring their digital ideas to life.
+- **Freelancing:** I see myself freelancing or working with a small company as a web developer, collaborating with clients to bring their digital ideas to life.
 
 - **Networking:** I'm eager to connect with fellow web developers, entrepreneurs, and business professionals to learn, collaborate, and grow together.
 
@@ -39,8 +41,5 @@ I'm always open to conversations, collaboration, and knowledge-sharing. Whether 
 - [GitHub](https://github.com/YourGitHubUsername)
 - [Email](youremail@email.com)
 
-Let's embark on this exciting journey together and explore how the worlds of web development and business can intersect to create something extraordinary! 🚀🌐
 
----
 
-Feel free to personalize this README further to reflect your unique experiences, goals, and interests as you pursue a career in web development with a business-minded approach. Your journey is unique, and this README is your canvas to express it! 🌟
