@@ -31,7 +31,7 @@ While I'm on this journey of self-improvement and knowledge acquisition, I'm als
 I'm always open to conversations, collaboration, and knowledge-sharing. Whether you want to discuss web development trends, business strategies, or simply connect, please don't hesitate to reach out:
 
 - [GitHub](https://github.com/RubenKorse)
-- [Email](youremail@email.com)
+- [Email](RubenKorse@gmail.com)
 
 
 
