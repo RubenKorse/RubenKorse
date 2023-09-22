@@ -26,12 +26,12 @@ While I'm on this journey of self-improvement and knowledge acquisition, I'm als
 
 
 
-## Let's Connect and Learn Together!
+## Let's Connect and Learn Tog
 
 I'm always open to conversations, collaboration, and knowledge-sharing. Whether you want to discuss web development trends, business strategies, or simply connect, please don't hesitate to reach out:
 
 - [GitHub](https://github.com/RubenKorse)
-- [Email](RubenKorse@gmail.com)
+- [Email](https://RubenKorse@gmail.com)
 
 
 
