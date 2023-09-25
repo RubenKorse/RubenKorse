@@ -11,8 +11,6 @@ I'm an aspiring web developer with a passion for creating digital solutions and 
   - **HTML/CSS:** Crafting visually appealing and responsive web designs.
 
   - **JavaScript:** Adding interactivity and dynamic functionality to websites.
-
-  - **React:** Exploring modern front-end development for creating engaging user interfaces.
  
   - **PHP:** Learning about the backend side of web development.
 
@@ -26,9 +24,9 @@ While I'm on this journey of self-improvement and knowledge acquisition, I'm als
 
 
 
-## Let's Connect and Learn Tog
+## You can contact me here,
 
-I'm always open to conversations, collaboration, and knowledge-sharing. Whether you want to discuss web development trends, business strategies, or simply connect, please don't hesitate to reach out:
+I'm always open to collaboration and sharing of each other's knowledge. I have some contact links below:
 
 - [GitHub](https://github.com/RubenKorse)
 - [Email](mailto:RubenKorse@gmail.com)
