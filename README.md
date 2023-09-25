@@ -1,6 +1,6 @@
 # Hey There, I'm Ruben! 📚💻
 
-I'm an aspiring web developer with a passion for creating digital solutions and a little bit of interest in the world of business. I believe that the fusion of web development skills and business can lead to incredible opportunities, and I'm excited to start this journey.
+I'm an aspiring web developer with a passion for creating digital solutions with a little bit of interest in the world of business. I believe that the fusion of web development skills and the world business can lead to incredible opportunities, and I'm excited to start this journey.
 
 ## About Me
 
