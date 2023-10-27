@@ -20,9 +20,6 @@ While I'm on this journey of self-improvement and knowledge acquisition, I'm als
 
 - [Personal Portfolio](link-to-portfolio): A project where I showcase my skills and projects while demonstrating my commitment to web development (note: they are not done yet).
 
-- [E-commerce Website](link-to-ecommerce): A hands-on experience in building a functional online store, which involves managing products and handling transactions (note: they are not done yet).
-
-
 
 ## You can contact me here,
 
