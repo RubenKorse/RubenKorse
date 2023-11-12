@@ -1,32 +1,35 @@
-# Hey There, I'm Ruben! 📚💻
+# I'm Ruben,
 
-I'm an aspiring web developer with a passion for creating digital solutions. I believe that the fusion of web development skills and the world business can lead to incredible opportunities, and I'm excited to start this journey.
+I'm on the road to becoming a web developer and love the idea of mixing web skills with the business world for cool opportunities. Super excited about this journey!
 
-## About Me
+## A Bit About Me
 
-- **Academic Pursuit:** Currently, I'm on a path to become a web developer while pursuing my education. I'm constantly honing my skills in web development, learning to build websites and applications that not only look great but also serve a purpose.
+- **Learning Journey:** I'm currently learning to be a web developer while doing my school thing. I'm getting better at making websites and apps that look awesome and actually do stuff.
 
-- **Tech Enthusiast:** I'm deeply passionate about web development and have been exploring various languages and technologies to expand my skill set:
+- **Tech Fan:** I really like web development and have been trying out different tech stuff:
 
-  - **HTML/CSS:** Crafting visually appealing and responsive web designs.
+  - **HTML/CSS:** Making websites look cool and work well.
 
-  - **JavaScript:** Adding interactivity and dynamic functionality to websites.
- 
-  - **PHP:** Learning about the backend side of web development.
+  - **JavaScript:** Adding fun stuff to websites.
 
-## What I'm Working On
+  - **PHP:** Learning about the backend of web development.
 
-While I'm on this journey of self-improvement and knowledge acquisition, I'm also engaged in exciting web development projects:
+## What I'm Up To
 
-- [Personal Portfolio](link-to-portfolio): A project where I showcase my skills and projects while demonstrating my commitment to web development (note: they are not done yet).
+While I'm working on getting better and learning, I'm also busy with some cool web projects:
 
+- [Personal Portfolio](link-to-portfolio): Showing off my skills and projects (just a heads up, they're still in progress).
 
-## You can contact me here,
+- [https://debig5trilogie.nl](link-to-a-project): This is a website I made using wordpress for a writer (the website is dutch).
 
-I'm always open to collaboration and sharing of each other's knowledge. I have some contact links below:
+## How to Get in Touch
+
+I'm always up for teamwork and sharing what I know. Hit me up using these links:
 
 - [GitHub](https://github.com/RubenKorse)
 - [Email](mailto:RubenKorse@gmail.com)
 
+Looking forward to connecting!
 
-
+Cheers,  
+Ruben 🌟
