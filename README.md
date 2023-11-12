@@ -20,7 +20,7 @@ While I'm working on getting better and learning, I'm also busy with some cool w
 
 - [Personal Portfolio](link-to-portfolio): Showing off my skills and projects (just a heads up, they're still in progress).
 
-- debig5trilogie.nl : This is a website I made using wordpress for a writer (the website is dutch).
+- [debig5trilogie](https://debig5trilogie.nl): This is a website I made using wordpress for a writer (the website is dutch).
 
 ## How to Get in Touch
 
